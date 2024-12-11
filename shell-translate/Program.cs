@@ -1,11 +1,10 @@
-﻿using System.Runtime.InteropServices.Swift;
-using DeepL;
-using DeepL.Model;
+﻿using DeepL;
 using DotNetEnv;
 using Microsoft.Extensions.DependencyInjection;
 using shell_translate1.commands;
 using shell_translate1.di;
 using Spectre.Console.Cli;
+
 
 public static class Program
 {
